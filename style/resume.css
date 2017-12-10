@@ -64,53 +64,12 @@ a:hover {
 
 
 
-
-
-
-
-/* individual page */
-
-.above {
-	float: left;
-	width: 50%;
-	padding-top: 50px;
-	padding-bottom: 25px;
-}
-
-.left {
-	padding-left: 380px;
-}
-.right {
-	padding-right: 300px;
-	padding-left: 80px;
-}
-
-.below {
-	float: left;
-	width: 50%;
-}
-
-
-img {
+.resume {
+	text-align: center;
 	margin: 0;
 	padding: 0;
-	width: 25%;
-	height: 25%;
+	margin-top: 50px;
 }
-
-.below_logo:hover {
-	width: 35%;
-	height: 35%;
-	margin-top: -25.5px;
-}
-
-
-
-
-
-
-
-
 
 /* footer */
 .bottom {
