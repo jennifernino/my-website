@@ -142,4 +142,86 @@ h5 {
 
 
 
+@media (max-width: 1000px) {
+	#name {
+		display: none;
+	}
+	.above {
+		padding: 0;
+		margin: 0;
+		float: none;
+		padding-left: 10%;
+	}
+
+	.left {
+		padding: 0;
+		margin: 0;
+		padding-left: 10%;
+	}
+	
+	.right {
+		padding: 0;
+		margin: 0;
+		padding-left: 10%;
+	}
+
+	.below {
+		padding: 0;
+		margin: 0;
+		float: none;
+		padding-left: 10%;
+	}
+
+	img {
+		margin: 0;
+		padding: 0;
+		width: 150px;
+		height: 150px;
+		margin-bottom: 10px;
+		margin-top: 50px;
+	}
+
+	h2 {
+		padding: 0;
+		margin: 0;
+		font-size: 40px;
+		text-align: left;
+		margin-bottom: 20px;
+	}
+
+	p {
+		padding: 0;
+		margin: 0;
+		margin-bottom: 50px;
+		font-size: 20px;
+		text-align: left;
+	}
+
+	.bottom {
+		position: relative;
+		left: 0;
+		bottom: 0;
+		background-color: #79a9b0;
+		color: #f2f2f2;
+		width: 100%;
+		margin: 0; 
+		padding: 0;
+		height:50px;
+		line-height: 15px;
+	}
+
+	h5 {
+		text-shadow: 1px 1px gray;
+		padding: 1.5%;
+		margin: 0;
+		text-align: center;
+		font-size: 15px;
+	}
+}
+
+
+
+
+
+
 
