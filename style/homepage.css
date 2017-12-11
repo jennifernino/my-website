@@ -33,7 +33,7 @@ header {
 }
 
 h1 {
-	text-shadow: 1px 1px gray;
+	text-shadow: 1px 1px #D3D3D3;
 	padding: 0;
 	margin: 0;
 }
@@ -46,7 +46,7 @@ ul {
 }
 
 li {
-	text-shadow: 1px 1px gray;
+	text-shadow: 1px 1px #D3D3D3;
 	margin: 15px;
 	padding: 0;
 	display: inline;
@@ -141,7 +141,7 @@ p {
 }
 
 h5 {
-	text-shadow: 1px 1px gray;
+	text-shadow: 1px 1px #D3D3D3;
 	padding: 1.5%;
 	margin: 0;
 	text-align: center;
