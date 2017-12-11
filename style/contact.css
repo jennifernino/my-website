@@ -32,7 +32,7 @@ header {
 }
 
 h1 {
-	text-shadow: 1px 1px #D3D3D3;
+	text-shadow: 1px 1px #A9A9A9;
 	padding: 0;
 	margin: 0;
 }
@@ -45,7 +45,7 @@ ul {
 }
 
 li {
-	text-shadow: 1px 1px #D3D3D3;
+	text-shadow: 1px 1px #A9A9A9;
 	margin: 15px;
 	padding: 0;
 	display: inline;
@@ -129,7 +129,7 @@ img {
 }
 
 h5 {
-	text-shadow: 1px 1px #D3D3D3;
+	text-shadow: 1px 1px #A9A9A9;
 	padding: 1.5%;
 	margin: 0;
 	text-align: center;
@@ -211,7 +211,7 @@ h5 {
 	}
 
 	h5 {
-		text-shadow: 1px 1px #D3D3D3;
+		text-shadow: 1px 1px #A9A9A9;
 		padding: 1.5%;
 		margin: 0;
 		text-align: center;
