@@ -54,10 +54,17 @@ a {
 	text-decoration: none;
 	list-style: none;
 	text-underline-position: none;
+	padding-bottom: 5px;
 }
 
 a:hover {
 	color: #c9c9c9;
+	border-bottom: 2px solid #c9c9c9;
+	text-shadow: none;
+}
+
+h1:hover {
+	color: #f2f2f2;
 }
 
 
