@@ -84,6 +84,7 @@ h2 {
 	margin: 0; 
 	top: 50%;
 	left: 50%;
+	padding-bottom: 150px;
 	transform: translate(-50%, -50%);
 	position: absolute;
 }
@@ -110,6 +111,7 @@ p {
  	position: relative;
  	margin: 0px; 
  	margin-bottom: -10px;
+ 	min-height: 300px;
 }
 
 img {
@@ -117,7 +119,7 @@ img {
 	padding: 0;
 	width: 100%;
 	min-width: 100%;
-	max-height: 450px;
+	height: 500px;
 }
 
 h4 {
@@ -129,9 +131,6 @@ h4 {
 	margin: 0;
 	padding: 0;
 }
-
-
-
 
 
 
